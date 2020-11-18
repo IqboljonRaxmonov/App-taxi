@@ -1,0 +1,32 @@
+GET http://localhost/api/order/getAvailableCar/88cd0f8b-1490-4484-beee-e52ff5c34a25
+Accept: application/json
+Authorization: Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJmN2NjMTFhYy0xNDBkLTRmZTMtYTg1Yi1mNTAzOWU1MGM0OTkiLCJpYXQiOjE2MDQ5OTA5MTgsImV4cCI6MTYwNTU5NTcxOH0.e3GWzLmwCUFvpStvy8cFNSyjh3rg8C-fZuQuF1sGgg7qMEiX4EbewJDLPRhoFAAj0w2h4MyZ5GLQG-9LjnQ5lg
+
+###
+POST http://localhost/api/model
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyNDNjMDMyNS1lM2RiLTQ3OTAtOTdjMS0yNmJjNTU0YTBjMTEiLCJpYXQiOjE2MDQ4OTUyNjQsImV4cCI6MTYwNTUwMDA2NH0.DT_ad7YF5dSNUH7n7OnbUdj_aidyuSeI3rmiCWViuILr6dG4RRUMlz-DMGVks5d8im1knVa-TzR5HPepi59n5A
+
+{
+  "name": "Captiva7",
+  "description": "Tog'da ham yurasiz",
+  "brand": "/1"
+}
+
+###
+GET http://localhost/api/model?size=20&page=6
+Accept: application/json
+Authorization: Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyNDNjMDMyNS1lM2RiLTQ3OTAtOTdjMS0yNmJjNTU0YTBjMTEiLCJpYXQiOjE2MDQ4OTUyNjQsImV4cCI6MTYwNTUwMDA2NH0.DT_ad7YF5dSNUH7n7OnbUdj_aidyuSeI3rmiCWViuILr6dG4RRUMlz-DMGVks5d8im1knVa-TzR5HPepi59n5A
+
+###
+POST http://localhost/api/auth/login
+Content-Type: application/json
+
+{
+  "phoneNumber": "+998996791136",
+  "password": "root123"
+}
+
+
+
+
