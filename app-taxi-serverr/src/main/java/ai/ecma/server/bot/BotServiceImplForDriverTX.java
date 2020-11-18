@@ -210,16 +210,6 @@ public class BotServiceImplForDriverTX implements BotServiceForDriverTX {
 
 
 
-
-
-
-
-
-
-
-
-
-
     public static SendMessage makeSendMessageMarkdown(Update update) {
         return new SendMessage().setChatId(update.getMessage().getChatId()).setParseMode(ParseMode.MARKDOWN);
     }

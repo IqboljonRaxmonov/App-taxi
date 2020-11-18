@@ -6,10 +6,6 @@ import org.springframework.stereotype.Component;
 import java.util.Date;
 import java.util.UUID;
 
-/**
- * BY SIROJIDDIN on 02.11.2020
- */
-
 @Component
 public class JwtTokenProvider {
     private static final String secretKey = "MaxfiySuzG8HeckKimgaAytma";

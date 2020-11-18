@@ -9,10 +9,6 @@ import javax.validation.constraints.NotNull;
 import java.util.Date;
 import java.util.UUID;
 
-/**
- * BY SIROJIDDIN on 30.10.2020
- */
-
 @Data
 @AllArgsConstructor
 @NoArgsConstructor

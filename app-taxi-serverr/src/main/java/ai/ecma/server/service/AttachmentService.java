@@ -17,10 +17,6 @@ import org.springframework.web.multipart.MultipartHttpServletRequest;
 import java.io.IOException;
 import java.util.UUID;
 
-/**
- * BY SIROJIDDIN on 06.11.2020
- */
-
 @Service
 public class AttachmentService {
     @Autowired

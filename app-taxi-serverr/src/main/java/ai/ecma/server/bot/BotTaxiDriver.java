@@ -8,10 +8,6 @@
 //import org.telegram.telegrambots.bots.TelegramLongPollingBot;
 //import org.telegram.telegrambots.meta.api.objects.Update;
 //
-///**
-// * BY SIROJIDDIN on 12.11.2020
-// */
-//
 //@Component
 //public class BotTaxiDriver extends TelegramLongPollingBot {
 //    @Autowired

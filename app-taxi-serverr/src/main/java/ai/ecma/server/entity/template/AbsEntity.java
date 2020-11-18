@@ -13,10 +13,6 @@ import javax.persistence.*;
 import java.sql.Timestamp;
 import java.util.UUID;
 
-/**
- * BY SIROJIDDIN on 29.10.2020
- */
-
 @Data
 @MappedSuperclass
 @EntityListeners(value = AuditingEntityListener.class)

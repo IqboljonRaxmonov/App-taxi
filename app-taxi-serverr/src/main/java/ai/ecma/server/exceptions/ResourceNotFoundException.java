@@ -7,10 +7,6 @@ import lombok.NoArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
 
-/**
- * BY SIROJIDDIN on 03.11.2020
- */
-
 @EqualsAndHashCode(callSuper = true)
 @Data
 @ResponseStatus(value = HttpStatus.NOT_FOUND)

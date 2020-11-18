@@ -8,10 +8,6 @@ import lombok.NoArgsConstructor;
 import java.sql.Timestamp;
 import java.util.UUID;
 
-/**
- * BY SIROJIDDIN on 05.11.2020
- */
-
 @Data
 @AllArgsConstructor
 @NoArgsConstructor

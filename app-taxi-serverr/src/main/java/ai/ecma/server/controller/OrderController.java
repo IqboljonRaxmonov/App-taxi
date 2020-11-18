@@ -16,10 +16,6 @@ import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
 import java.util.List;
 import java.util.UUID;
 
-/**
- * BY SIROJIDDIN on 10.11.2020
- */
-
 @RestController
 @RequestMapping("/api/order")
 public class OrderController {

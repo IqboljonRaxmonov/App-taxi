@@ -11,9 +11,6 @@ import org.springframework.security.core.context.SecurityContextHolder;
 import java.util.Optional;
 import java.util.UUID;
 
-/**
- * BY SIROJIDDIN on 10.11.2020
- */
 @Configuration
 @EnableJpaAuditing
 public class KimTekkaniniBilish {

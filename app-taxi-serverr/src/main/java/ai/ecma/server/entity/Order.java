@@ -11,10 +11,6 @@ import javax.persistence.*;
 import java.sql.Timestamp;
 import java.util.List;
 
-/**
- * BY SIROJIDDIN on 10.11.2020
- */
-
 @EqualsAndHashCode(callSuper = true)
 @Data
 @AllArgsConstructor

@@ -15,10 +15,6 @@ import java.util.Collections;
 import java.util.Set;
 import java.util.UUID;
 
-/**
- * BY SIROJIDDIN on 03.11.2020
- */
-
 @Service
 public class CarService {
     @Autowired

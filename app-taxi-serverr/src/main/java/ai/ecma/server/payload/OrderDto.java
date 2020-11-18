@@ -6,10 +6,6 @@ import lombok.NoArgsConstructor;
 
 import java.util.UUID;
 
-/**
- * BY SIROJIDDIN on 11.11.2020
- */
-//
 @Data
 @AllArgsConstructor
 @NoArgsConstructor

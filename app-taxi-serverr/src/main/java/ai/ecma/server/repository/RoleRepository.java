@@ -11,10 +11,6 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.List;
 import java.util.Set;
 
-/**
- * BY SIROJIDDIN on 30.10.2020
- */
-
 public interface RoleRepository extends JpaRepository<Role, Integer> {
     Role findByRoleName(RoleName roleName);
 }

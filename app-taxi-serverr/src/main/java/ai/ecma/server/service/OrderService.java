@@ -17,10 +17,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-/**
- * BY SIROJIDDIN on 10.11.2020
- */
-
 @Service
 public class OrderService {
     @Autowired

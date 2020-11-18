@@ -15,10 +15,6 @@ import org.springframework.web.bind.annotation.*;
 import javax.validation.Valid;
 import java.util.UUID;
 
-/**
- * BY SIROJIDDIN on 03.11.2020
- */
-
 @RestController
 @RequestMapping("/api/car")
 public class CarController {

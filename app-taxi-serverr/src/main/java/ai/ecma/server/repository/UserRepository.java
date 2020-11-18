@@ -10,11 +10,6 @@ import java.util.Optional;
 import java.util.Set;
 import java.util.UUID;
 
-/**
- * BY SIROJIDDIN on 30.10.2020
- */
-
-
 public interface UserRepository extends JpaRepository<User, UUID> {
     Optional<User> findByPhoneNumberAndRolesIn(String phoneNumber, Set<Role> roles);
 

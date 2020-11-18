@@ -9,10 +9,6 @@
 //
 //import java.util.List;
 //
-///**
-// * BY SIROJIDDIN on 12.11.2020
-// */
-//
 //
 //public interface BotServiceForDriver {
 //

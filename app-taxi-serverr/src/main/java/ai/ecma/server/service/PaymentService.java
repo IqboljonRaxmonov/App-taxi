@@ -21,10 +21,6 @@ import java.util.Objects;
 import java.util.Set;
 import java.util.stream.Collectors;
 
-/**
- * BY SIROJIDDIN on 05.11.2020
- */
-
 @Service
 public class PaymentService {
     @Autowired

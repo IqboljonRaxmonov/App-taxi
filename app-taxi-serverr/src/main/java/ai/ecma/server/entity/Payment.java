@@ -11,10 +11,6 @@ import javax.persistence.Entity;
 import javax.persistence.FetchType;
 import javax.persistence.ManyToOne;
 
-/**
- * BY SIROJIDDIN on 04.11.2020
- */
-
 @EqualsAndHashCode(callSuper = true)
 @Data
 @AllArgsConstructor

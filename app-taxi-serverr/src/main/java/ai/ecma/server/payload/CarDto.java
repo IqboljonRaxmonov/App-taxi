@@ -8,10 +8,6 @@ import javax.validation.Valid;
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.NotNull;
 
-/**
- * BY SIROJIDDIN on 03.11.2020
- */
-
 @Data
 @AllArgsConstructor
 @NoArgsConstructor

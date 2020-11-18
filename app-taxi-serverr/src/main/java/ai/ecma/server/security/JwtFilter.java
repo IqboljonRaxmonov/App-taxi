@@ -18,9 +18,6 @@ import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.util.Base64;
 
-/**
- * BY SIROJIDDIN on 02.11.2020
- */
 
 public class JwtFilter extends OncePerRequestFilter {
     @Autowired

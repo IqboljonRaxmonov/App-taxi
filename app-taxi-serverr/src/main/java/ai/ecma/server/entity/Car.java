@@ -10,10 +10,6 @@ import lombok.NoArgsConstructor;
 import javax.persistence.*;
 import java.util.Set;
 
-/**
- * BY SIROJIDDIN on 03.11.2020
- */
-
 @EqualsAndHashCode(callSuper = true)
 @Data
 @AllArgsConstructor

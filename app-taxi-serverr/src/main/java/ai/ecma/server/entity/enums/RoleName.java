@@ -1,9 +1,5 @@
 package ai.ecma.server.entity.enums;
 
-/**
- * BY SIROJIDDIN on 29.10.2020
- */
-
 public enum RoleName {
 
     ROLE_CLIENT,

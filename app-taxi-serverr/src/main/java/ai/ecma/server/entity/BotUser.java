@@ -12,10 +12,6 @@ import javax.persistence.Entity;
 import javax.persistence.EnumType;
 import javax.persistence.Enumerated;
 
-/**
- * BY SIROJIDDIN on 12.11.2020
- */
-
 @EqualsAndHashCode(callSuper = true)
 @Data
 @AllArgsConstructor

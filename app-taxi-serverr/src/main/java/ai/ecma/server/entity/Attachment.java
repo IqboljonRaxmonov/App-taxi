@@ -8,10 +8,6 @@ import lombok.NoArgsConstructor;
 
 import javax.persistence.Entity;
 
-/**
- * BY SIROJIDDIN on 06.11.2020
- */
-
 @EqualsAndHashCode(callSuper = true)
 @Data
 @AllArgsConstructor

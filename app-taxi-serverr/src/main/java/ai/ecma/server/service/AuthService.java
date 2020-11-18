@@ -19,9 +19,6 @@ import java.util.Optional;
 import java.util.Random;
 import java.util.UUID;
 
-/**
- * BY SIROJIDDIN on 30.10.2020
- */
 
 @Service
 public class AuthService implements UserDetailsService {

@@ -17,9 +17,6 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-/**
- * BY SIROJIDDIN on 29.10.2020
- */
 
 @RestController
 @RequestMapping("/api/auth")

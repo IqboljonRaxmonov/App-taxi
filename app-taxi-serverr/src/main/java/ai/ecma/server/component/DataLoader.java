@@ -13,9 +13,6 @@ import org.springframework.stereotype.Component;
 import java.util.Arrays;
 import java.util.Collections;
 
-/**
- * BY SIROJIDDIN on 03.11.2020
- */
 @Component
 public class DataLoader implements CommandLineRunner {
 

@@ -8,10 +8,6 @@ import org.springframework.security.core.GrantedAuthority;
 
 import javax.persistence.*;
 
-/**
- * BY SIROJIDDIN on 29.10.2020
- */
-
 @Data
 @AllArgsConstructor
 @NoArgsConstructor

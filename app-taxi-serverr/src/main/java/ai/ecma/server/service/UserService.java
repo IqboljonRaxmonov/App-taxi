@@ -10,10 +10,6 @@ import org.springframework.stereotype.Service;
 
 import java.util.UUID;
 
-/**
- * BY SIROJIDDIN on 04.11.2020
- */
-
 @Service
 public class UserService {
     @Autowired

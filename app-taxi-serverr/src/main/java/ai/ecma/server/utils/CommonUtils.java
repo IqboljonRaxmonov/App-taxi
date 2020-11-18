@@ -5,10 +5,6 @@ import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.domain.Sort;
 
-/**
- * BY SIROJIDDIN on 09.11.2020
- */
-
 public class CommonUtils {
 
 

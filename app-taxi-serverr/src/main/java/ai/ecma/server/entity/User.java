@@ -13,10 +13,6 @@ import java.util.Collection;
 import java.util.Date;
 import java.util.Set;
 
-/**
- * BY SIROJIDDIN on 29.10.2020
- */
-
 @EqualsAndHashCode(callSuper = true)
 @Data
 @AllArgsConstructor

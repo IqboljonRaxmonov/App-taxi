@@ -9,10 +9,6 @@ import org.springframework.web.multipart.MultipartHttpServletRequest;
 
 import java.util.UUID;
 
-/**
- * BY SIROJIDDIN on 06.11.2020
- */
-
 @RestController
 @RequestMapping("/api/attachment")
 public class AttachmentController {

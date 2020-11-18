@@ -14,9 +14,6 @@ import org.springframework.web.bind.annotation.*;
 
 import java.sql.Timestamp;
 
-/**
- * BY SIROJIDDIN on 05.11.2020
- */
 
 @RestController
 @RequestMapping("/api/payment")
